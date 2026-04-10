@@ -1,0 +1,14 @@
+C:\GitHub\Slutprojektprogrammering\bin\Debug\net9.0\Slutprojektprogrammering.exe
+C:\GitHub\Slutprojektprogrammering\bin\Debug\net9.0\Slutprojektprogrammering.deps.json
+C:\GitHub\Slutprojektprogrammering\bin\Debug\net9.0\Slutprojektprogrammering.runtimeconfig.json
+C:\GitHub\Slutprojektprogrammering\bin\Debug\net9.0\Slutprojektprogrammering.dll
+C:\GitHub\Slutprojektprogrammering\bin\Debug\net9.0\Slutprojektprogrammering.pdb
+C:\GitHub\Slutprojektprogrammering\obj\Debug\net9.0\Slutprojektprogrammering.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Slutprojektprogrammering\obj\Debug\net9.0\Slutprojektprogrammering.AssemblyInfoInputs.cache
+C:\GitHub\Slutprojektprogrammering\obj\Debug\net9.0\Slutprojektprogrammering.AssemblyInfo.cs
+C:\GitHub\Slutprojektprogrammering\obj\Debug\net9.0\Slutprojektprogrammering.csproj.CoreCompileInputs.cache
+C:\GitHub\Slutprojektprogrammering\obj\Debug\net9.0\Slutprojektprogrammering.dll
+C:\GitHub\Slutprojektprogrammering\obj\Debug\net9.0\refint\Slutprojektprogrammering.dll
+C:\GitHub\Slutprojektprogrammering\obj\Debug\net9.0\Slutprojektprogrammering.pdb
+C:\GitHub\Slutprojektprogrammering\obj\Debug\net9.0\Slutprojektprogrammering.genruntimeconfig.cache
+C:\GitHub\Slutprojektprogrammering\obj\Debug\net9.0\ref\Slutprojektprogrammering.dll
