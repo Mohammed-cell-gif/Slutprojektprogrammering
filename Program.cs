@@ -5,15 +5,31 @@ if(string.IsNullOrEmpty(Console.ReadLine()))
 {
     bool start=true;
 }
-Ememies f = new Ememies();
 
-class Ememies
+
+class Enemy
 {
-    private string name;
-    private string power;
-    private int HP;
-    private string Weakness;
+    public string Name;
+    public string Power;
+    public int HP;
+    public string Weakness;
 
+public Enemy(string name,string power,int hp,string weakness)
+    {
+        Name = name;
+        Power=power;
+        HP=hp;
+        Weakness=weakness;
+    }
+    public void Takedamage(int damage)
+    {
+        HP-= damage;
+        if (HP<0) HP=0;
+    }
+    public bool dead()
+    {
+        return HP<=0;
+    }
 }
 
     
