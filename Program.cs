@@ -1,11 +1,17 @@
 ﻿using System.Runtime.CompilerServices;
+using System.Runtime.ExceptionServices;
 
 Console.WriteLine("Press Enter to start");
-if(string.IsNullOrEmpty(Console.ReadLine()))
-{
-    bool start=true;
-}
+Console.ReadLine();
 
+Ally1 = new Enemy("ally1","fire",100,"water");
+Enemy1 = new Enemy("monster2","rock",80,"fire");
+Console.WriteLine("{Enemy1 vs enemy2} Fight");
+
+while(!Ally1.dead() && !Enemy1.dead())
+{
+    
+}
 
 class Enemy
 {
